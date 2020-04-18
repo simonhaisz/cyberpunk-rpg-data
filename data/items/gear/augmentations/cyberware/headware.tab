@@ -1,0 +1,23 @@
+Name	Essence	Capacity	Availability	Cost
+Attention Coprocessor (1, 2, 3)	0.3	-	4, 6, 8	3000, 15000, 45000
+Commlink	0.2	[2]	-	2000
+Control Rig	0.5	-	8	10000
+Cranial Bomb (Kink, Micro, Area)	0	[1, 2, 3]	16F, 16F, 20F	2000, 5000, 10000
+Datafilter	0.2	-	12	2500
+Datajack	0.1	[1]	-	500
+Data Lock	0.1	[1]	12	1000
+Encephalon (1, 2)	0.75, 1.5	-	8, 12	30000, 75000
+Math SPU	0.15	-	9	5000
+Olfactory Booster (2, 4, 6)	0.2	[2]	4, 6, 8	1000, 5000, 15000
+Orientation System	0.2	[1]	4	1000
+Radar System (1, 2, 3)	0.3	[2]	8, 12, 16	3000, 15000, 45000
+Sim Module	0.2	[2]	-	2000
+Hot Sim Module	0.2	[2]	12F	5000
+Simsense Booster	0.5	-	8	65000
+Taste Booster (2, 4, 6)	0.2	-	4, 6, 8	1500, 7500, 22500
+Tooth Storage Compartment	-	-	8	200
+Tooth Breakable Compartment	-	-	12	500
+Ultrasound Sensor	0.3	[2]	10	5000
+Voice Mask	0.1	-	8F	3000
+Voice Modulator	0.2	-	4	5000
+Secondary Pattern (2, 4, 6)	-	-	6F, 9F, 12F	5000, 25000, 75000

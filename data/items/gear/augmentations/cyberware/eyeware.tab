@@ -1,0 +1,20 @@
+Name	Essence	Capacity	Availability	Cost
+Cybereyes (1, 2, 3)	0.2, 0.3, 0.4	4, 8, 12	2, 3, 4	500, 2500, 7500
+Eye Recoding Unit	0.1	Included	4	2000
+Flare Compensation	0.1	[1]	4	1000
+Image Link	0.1	Included	4	500
+Laser System	-	[3]	10	2000
+Laser Designator	-	-	12R	1000
+Laser Microphone (1, 2, 3)	-	-	8R, 12R, 16R	500, 2500, 7500
+Laser Range Finder	-	-	10	1000
+Tool Laser	-	[6]	10R	2000
+Light System	0.1	[2]	6	500
+Low-Light Vision	0.1	[2]	4	1000
+Microscopic Vision	0.2	[3]	4	1500
+Ocular Drone	-	[6]	6	3000
+Protective Covers	-	-	4	100
+Retinal Duplication (2, 4, 6)	0.1	[1]	12F, 18F, 24F	15000, 75000, 225000
+Smartlink	0.1	[3]	8R	1000
+Thermographic Vision	0.1	[2]	4	1000
+Vision Enhancement (1, 2, 3)	0.1	[2]	4, 6, 8	1500, 7500, 22500
+Vision Magnification	0.1	[2]	4	1000

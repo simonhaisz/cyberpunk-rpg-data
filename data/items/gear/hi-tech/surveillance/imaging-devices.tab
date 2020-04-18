@@ -1,0 +1,11 @@
+Name	Capacity	Availability	Cost
+Binoculars - Electronic (2)	[2]	-	100
+Binoculars - Optical	-	-	50
+Camera (0, 2, 4, 6)	[0, 4, 8, 12]	-	200, 100, 500, 1500
+Contact Lenses (2)	[4]	6	100
+Glasses (4)	[8]	-	100
+Goggles (6)	[12]	-	300
+Monocle (4)	[8]	4	100
+Endoscope	-	8	250
+Periscope	[2]	3	50
+Mage Sight Goggles	[2]	12R	2000

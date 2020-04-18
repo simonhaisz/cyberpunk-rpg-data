@@ -1,0 +1,46 @@
+Name	Essence	Availability	Cost
+Adrenal Pump (1, 2, 3)	0.75, 1.5, 2.25	6F, 9F, 12F	30000, 150000, 450000
+Bone Density Augmentation (1, 2, 3)	0.3, 0.6, 0.9	8R, 12R, 16R	20000, 100000, 300000
+Cat’s Eyes	0.1	4	5000
+Chemical Gland	0.3	12	30000
+Exhalation Spray	0.1	-	5000
+Internal Release	-	-	1000
+Spit	0.1	-	3000
+Weapon Reservoir	0.1	-	2000
+Cosmetic Modification	-	4-16	1000-50000
+Digestive Expansion	0.5	4	20000
+Echolocation	0.1	8	15000
+Elastic Joints	0.3	10	15000
+Enhanced Articulation	0.3	12	40000
+Enhanced Pheromone Receptors (1, 2, 3)	0.1	10, 15, 20	5000, 25000, 75000
+Extended Volume (1, 2, 3)	0.1, 0.2, 0.3	4, 6, 8	4000, 20000, 60000
+False Front (1, 2, 3)	0.2, 0.4, 0.6	8F, 12F, 16F	10000, 50000, 150000
+Mimic Option	-	+4F	50000
+Gecko Hands	0.1	6	10000
+Gills	0.2	6	10000
+Hearing Enhancement	0.1	6	5000
+Metabolic Arrestor	0.3	8	10000
+Muscle Augmentation (1, 2, 3)	0.2, 0.4, 0.6	6R, 9R, 12R	7000, 35000, 105000
+Muscle Toner (1, 2, 3)	0.2, 0.4, 0.6	6R, 9R, 12R	8000, 40000, 120000
+Nephritic Screen (1, 2, 3)	0.1, 0.2, 0.3	8, 12, 16	10000, 50000, 150000
+Nictitating Membrane	0.1	4	2000
+Orthoskin (1, 2, 3)	0.25, 0.5, 0.75	6R, 9R, 12R	30000, 150000, 450000
+Dragon Hide	0.1	12R	10000
+Electroshock	0.25	12R	30000
+Sharkskin	0.1	12R	5000
+Smart Insulation	0.1	12R	15000
+Quills	0.25	8	5000
+Pathogenic Defense (2, 4, 6)	0.2, 0.4, 0.6	4, 6, 8	10000, 50000, 150000
+Platelet Factories	0.2	12	25000
+Skin Pocket	0.1	4	5000
+Spidersilk Gland	0.3	10	40000
+Suprathyroid Gland	0.7	20F	50000
+Symbiotes (1, 2, 3)	0.2, 0.4, 0.6	4, 6, 8	10000, 50000, 150000
+Synthacardium (1, 2, 3)	0.1, 0.2, 0.3	4, 6, 8	10000, 50000, 150000
+Tactile Sensitivity	0.2	8	4000
+Tailored Critter Pheromones (1, 2, 3)	0.2, 0.4, 0.6	6, 9, 12	15000, 75000, 225000
+Tailored Pheromones (1, 2, 3)	0.2, 0.4, 0.6	6F, 9F, 12F	15000, 75000, 225000
+Toxin Extractor (2, 4, 6)	0.2, 0.4, 0.6	6, 9, 12	20000, 100000, 300000
+Tracheal Filter (2, 4, 6)	0.2, 0.4, 0.6	6, 9, 12	15000, 75000, 225000
+Troll’s Eyes	0.1	6	5000
+Vocal Range Enhancer	0.1	8	10000

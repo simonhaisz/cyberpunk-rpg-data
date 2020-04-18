@@ -1,0 +1,6 @@
+Name	Reach	Damage	AP	STR Min	Availability	Cost
+Club	1	(STR/2 + 1)P	-	3	-	20
+Extendable Baton	1	(STR/2 + 1)P	-	3	-	50
+Sap	-	(STR/2 + 1)S	-	2	-	20
+Staff	2	(STR/2 + 2)P	-	3 (5)	-	50
+Stun Baton	1	6S(e)	-half	3	4R	500

@@ -1,0 +1,9 @@
+Name	Capacity	Availability	Cost
+Low Light	[2]	+4	100
+Flare Comp	[1]	+2	50
+Image Link	[1]	-	25
+Smartlink	[3]	+4F	500
+Thermographic	[2]	+6	100
+Ultrasound	[2]	+8	1000
+Visual Enhancement (1, 2, 3)	[1, 2, 3]	2, 4, 6	100, 500, 1500
+Visual Magnification	[2]	+2	100

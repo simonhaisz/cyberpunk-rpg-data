@@ -1,0 +1,13 @@
+Name	Damage	AP	Armor	Availability	Cost
+Armor Piercing	-	-2	Ballistic	8F	20
+APDS	-2	-6	Ballistic	16F	100
+Capsule	-2S	+2	Impact	4	50
+Explosive	+1	-1	Ballistic	12F	100
+Flechette	+2	+5	Impact	4R	50
+Gel	-1S	+2	Impact	4R	20
+Hollow Point	+1	+2	Ballistic	6R	20
+Incendiary	-	-	Ballistic	6F	50
+Regular	-	-	Ballistic	2R	10
+Tracer	-	-	Ballistic	6R	50
+Injection Dart	-	-	Impact	4	50
+Taser Dart	-	-	Impact	2	50

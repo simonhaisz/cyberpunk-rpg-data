@@ -1,0 +1,12 @@
+Name	Reach	Damage	AP	STR Min
+Baseball Bat	1	(STR/2 + 1)P	+2	2 (4)
+Bottle (Unbroken)	-	(STR/2 + 1)S	+2	1
+Bottle (Broken)	-	(STR/2 + 1)P	+2	1
+Chair	1	(STR/2 + 2)S	+2	2 (4)
+Frying Pan	-	(STR/2 +1)P	-	2
+Metahuman Body	1	(BOD/2 +2)S	+2	BOD
+Pistol	-	(STR/2)P	-	Pistol
+Pool Cue	2	(STR/2)P	+2	2
+Rifle Butt	1	(STR/2 +1)P	-	Rifle
+Sledge Hammer	1	(STR/2 + 3)P	-	4 (6)
+Steel Pipe	1	(STR/2 + 1)P	-	2 (4)

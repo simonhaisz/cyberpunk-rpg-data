@@ -1,0 +1,7 @@
+Name	Availability	Cost
+Headjammer (2, 4, 6)	6R, 9R, 12R	200, 1000, 3000
+Jammer - Area (4, 8, 12)	12F, 18F, 24F	1000, 5000, 15000
+Jammer - Directional (4, 8, 12)	8F, 12F, 16F	500, 2500, 7500
+Micro-Transceiver (2, 4, 6)	4, 6, 8	200, 1000, 3000
+Tag Eraser	6F	200
+White Noise Generator (2, 4, 6)	4, 6, 8	100, 500, 1500

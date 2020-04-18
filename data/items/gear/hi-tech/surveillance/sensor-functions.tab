@@ -1,0 +1,11 @@
+Name	Capacity	Availability	Cost
+Atmosphere Sensor (1, 2, 3)	[1, 2, 3]	2, 3, 4	20, 100, 300
+Cyberware Scanner (2, 4, 6)	[1, 2, 3]	4R, 6R, 8R	200, 1000, 3000
+Directional Microphone (2, 4, 6)	[1, 2, 3]	4, 6, 8	50, 250, 750
+Geiger Counter	[2]	4	50
+Laser Microphone (2, 4, 6)	[2, 3, 4]	6R, 9R, 12R	50, 250, 750
+Laser Range Finder	[1]	8	100
+MAD Scanner (2, 4, 6)	[1, 2, 3]	6R, 9R, 12R	100, 500, 750
+Motion Sensor	[2]	4	50
+Olfactory Sensor (2, 4, 6)	[1, 2, 3]	4, 6, 8	500, 2500, 7500
+Radio Signal Scanner (2, 4, 6)	[1, 2, 3]	4R, 6R, 8R	20, 100, 300

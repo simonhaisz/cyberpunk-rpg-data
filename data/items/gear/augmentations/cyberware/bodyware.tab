@@ -1,0 +1,30 @@
+Name	Essence	Capacity	Availability	Cost
+Autoinjector (Reusable, One-shot, Extra Capacity)	0.1, 0.05, -	[0]	4, 8, -	500, 1000, 500
+Balance Tail	0.5	- / [2]	9	5000
+Biomonitor	0.3	[1]	4	1000
+Blood Circuit Control Systems	1	-	15	30000
+Bone Lacing (Plastic, Kevlar, Aluminum, Ceramic, Titanium)	0.5, 1, 1, 1.2, 1.5	-	8R, 10R, 12R, 14R, 16R	5000, 15000, 25000, 50000, 75000
+Cosmetic Modification	-	-	2-12	200-10000
+Dermal Plating (1, 2, 3)	0.5, 1, 1.5	-	6R, 9R, 12R	5000, 25000, 75000
+Dermal Sheath (1, 2, 3)	0.6, 1.2, 1.8	-	8R, 12R, 16R	10000, 50000, 150000
+Ruthenium Polymer Coating	-	-	+2	10000
+Chameleon Modification	+0.2	-	+4F	50000
+Fingertip Compartment	0.1	[1]	4	1000
+Flex Hands	0.3	-	10	3500
+Foot Anchor	0.4	[3]	10	4000
+Gastric Neurostimulator	0.2	-	6	2000
+Grapple Gun	0.5	[5]	8	2000
+Grip Feet	0.3	[2]	10	5000
+Internal Air Tank	0.25	[3]	4	500
+Magnetic System	0.25	[2]	8	1500
+Move-by-Wire System (1, 2, 3)	1.5, 3, 4.5	-	12R, 18R, 24R	50000, 250000, 750000
+Muscle Replacement (1, 2, 3)	1, 2, 3	-	6R, 9R, 12R	5000, 25000, 75000
+OXSYS Cybergill	0.25	-	6	5000
+Reaction Enhancer (1, 2, 3)	0.3, 0.6, 0.9	-	6R, 9R, 12R	10000, 50000, 150000
+Retractable Climbing Claws	0.2	[2]	8	2000
+Simrig	0.5	-	8	5000
+Skillwires (1, 3, 5)	0.2, 0.6, 1	-	4, 6, 8	2000, 10000, 30000
+Smart Articulation	0.8	-	6	15000
+Smuggling Compartment	0.2	[2]	6	2000
+Touch Link	0.1	-	6	1000
+Wired Reflexes (1, 2, 3)	1.5, 3, 4.5	-	8R, 12R, 16R	20000, 100000, 300000

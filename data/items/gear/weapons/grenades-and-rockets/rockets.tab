@@ -1,0 +1,4 @@
+Name	Damage	AP	Blast	Availability	Cost
+Anti-Vehicle	16P	-2 / -6	1 / 2 / 5	20F	1000
+Fragmentation	16P(F)	+5	5 / 10 / 20 / 50	16F	500
+High Explosive	14P	-2	2 / 5 / 10	16F	500

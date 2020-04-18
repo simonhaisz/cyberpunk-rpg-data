@@ -1,0 +1,8 @@
+Name	Capacity	Signal
+RFID	[1]	0
+Micro	[1]	2
+Handheld / Mini Drone	[2]	3
+Mounted / Small Drone	[4]	4
+Scanner / Medium Drone	[6]	4
+Large Drone	[8]	4
+Vehicle	[12]	5

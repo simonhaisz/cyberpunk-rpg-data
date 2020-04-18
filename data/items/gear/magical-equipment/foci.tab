@@ -1,0 +1,9 @@
+Name	Availability	Cost
+Spellcasting (2, 4, 6)	8R, 12R, 16R	15000, 75000, 225000
+Counterspelling (2, 4, 6)	4R, 6R, 8R	5000, 25000, 75000
+Sustaining (3, 6, 9)	6R, 9R, 12R	20000, 100000, 300000
+Summoning (2, 4, 6)	8R, 12R, 16R	15000, 75000, 225000
+Banishing (2, 4, 6)	4R, 6R, 8R	5000, 25000, 75000
+Binding (2, 4, 6)	6R, 9R, 12R	10000, 50000, 150000
+Weapon (1, 2, 3)	8F, 12F, 16F	20000, 100000, 300000
+Power (1, 2, 3)	12F, 18F, 24F	50000, 250000, 750000

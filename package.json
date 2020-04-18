@@ -1,0 +1,23 @@
+{
+  "name": "cyberpunk-rpg-data",
+  "version": "0.1.0",
+  "description": "Raw data and DB seeding",
+  "repository": "https://github.com/simonhaisz/cyberpunk-rpg-data.git",
+  "author": "simonhaisz@gmail.com <simonhaisz@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "change-case": "^4.1.1",
+    "commander": "^5.0.0",
+    "fs-extra": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.1.0",
+    "@types/node": "12",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "files": "node dist/update-files.js --root-dir data",
+    "db": "node dist/update-db.js"
+  }
+}

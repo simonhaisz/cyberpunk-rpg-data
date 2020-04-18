@@ -1,0 +1,8 @@
+Name	Damage	AP	Availability	Cost
+Regular	-	-	2	5
+Injection	-	-	8R	50
+Barbed	-	-	6R	10
+Explosive	+1	-1	10F	50
+Hammerhead	S	+2	4	10
+Incendiary	-	-	12F	20
+Screamer	-2S	+2	2	20

@@ -1,0 +1,4 @@
+Name	Capacity	Availability	Cost
+Audio Enhancement (1, 2, 3)	[1, 2, 3]	+2	100, 500, 1500
+Select Sound Filter (1, 2, 3)	[1, 2, 3]	+8	200, 1000, 3000
+Spatial Recognizer	[2]	+6	100

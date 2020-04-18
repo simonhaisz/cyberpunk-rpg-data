@@ -1,0 +1,15 @@
+Name	Ballistic	Impact	Availability	Cost
+Light Armored Clothing (Store, Name, Luxury)	4	2	2, 6, 12	500, 2500, 7500
+Heavy Armored Clothing (Store, Name, Luxury)	5	3	2, 6, 12	500, 2500, 7500
+Armored Jacket	6	4	4	1000
+Armored Vest (Concealed)	4	2	6	500
+Armored Vest (Obvious)	8	6	8	1000
+Camouflage Suit	6	4	6	1000
+Lined Coat	5	 3	6	1000
+Urban Explorer Jumpsuit	2	6	6	500
+Chemical Seal	-	-	+6R	5000
+Environment Adaptation	-	-	+4R	3000
+Military Armor	16	14	20F	20000
+Military Helmet	+2	+2	20F	5000
+Security Armor	10	8	14R	5000
+Security Helmet	+2	+2	14R	1000

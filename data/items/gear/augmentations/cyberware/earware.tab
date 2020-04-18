@@ -1,0 +1,10 @@
+Name	Essence	Capacity	Availability	Cost
+Cyberears (1, 2, 3)	0.2, 0.3, 0.4	[4, 8, 12]	2, 3, 4	500, 2500, 7500
+Audio Enhancers (1, 2, 3)	0.1	[2]	4, 6, 8	1500, 7500, 22500
+Balance Augmenter	0.1	[4]	10	5000
+Damper	0.1	[1]	4	1000
+Ear Recording Unit	0.1	Included	4	500
+Increased Sensitivity	0.1	[1]	6	1000
+Select Sound Filter (2, 4, 6)	0.1	[4]	4, 6, 8	1000, 5000, 15000
+Sound Link	0.1	Included	-	200
+Spatial Recognizer	0.1	[2]	8	500

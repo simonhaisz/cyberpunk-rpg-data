@@ -1,0 +1,11 @@
+Name	Damage	AP	Blast	Availability	Cost
+Flare	-	-	-	4	50
+Flashbang	6S	-3	2 / 5 / 10	6F	50
+Fragmentation	12P (f)	+5	5 / 10 / 20 / 50	12F	100
+High Explosive	10P	-2	2 / 5 / 10	12F	100
+Incendiary	Special	-	10m Radius	8F	100
+Gas	Chemical	-	10m Radius	4	20
+Smoke	-	-	10m Radius	8	20
+Splash	Chemical	-	10m Radius	4	20
+Thermal Smoke	-	-	10m Radius	12	50
+White Phosphorus	8P / 4P		2 / 5 / 10	16F	200

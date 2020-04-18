@@ -1,0 +1,7 @@
+Name	Availability	Cost
+Chemical Protection (2, 4, 6)	8, 12, 16	200, 1000, 3000
+Fire Resistance (2, 4, 6)	4, 6, 8	100, 500, 1500
+Insulation (2, 4, 6)	4, 6, 8	100, 500, 1500
+Nonconductivity (2, 4, 6)	6, 9, 12	200, 1000, 3000
+Shock Frills	6R	500
+Thermal Damping (2, 4, 6)	10F, 15F, 20F	500, 2500, 7500
