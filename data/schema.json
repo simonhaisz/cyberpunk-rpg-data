@@ -1,0 +1,81 @@
+{
+	"name": "system",
+	"tables": [
+		{
+			"name": "item",
+			"columns": [
+				{
+					"name": "path",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "name",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "data",
+					"type": "json"
+				}
+			]
+		},
+		{
+			"name": "user",
+			"columns": [
+				{
+					"name": "name",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "password_salt",
+					"type": "string"
+				},
+				{
+					"name": "password_hash",
+					"type": "string"
+				}
+			]
+		},
+		{
+			"name": "permission",
+			"columns": [
+				{
+					"name": "name",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "user_name",
+					"type": "string",
+					"key": true
+				}
+			]
+		},
+		{
+			"name": "character",
+			"columns": [
+				{
+					"name": "user_name",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "path",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "name",
+					"type": "string",
+					"key": true
+				},
+				{
+					"name": "data",
+					"type": "json"
+				}
+			]
+		}
+	]
+}
