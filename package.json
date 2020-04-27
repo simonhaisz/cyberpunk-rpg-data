@@ -9,15 +9,20 @@
   "dependencies": {
     "change-case": "^4.1.1",
     "commander": "^5.0.0",
-    "fs-extra": "^9.0.0"
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.0.0",
+    "pg": "^8.0.2"
   },
   "devDependencies": {
     "@types/fs-extra": "^8.1.0",
     "@types/node": "12",
+    "@types/pg": "^7.14.3",
     "typescript": "^3.8.3"
   },
   "scripts": {
     "files": "node dist/update-files.js --root-dir data",
-    "db": "node dist/update-db.js"
+    "create-db": "node dist/create-db.js --file data/schema.json",
+    "db-items": "node dist/update-db.js --file data/items.json --table system.item",
+    "create-user": "node dist/create-user.js"
   }
 }
