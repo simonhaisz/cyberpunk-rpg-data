@@ -2,61 +2,61 @@
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Antiques and Oddities Dealer [Dealer]"
+            "name": "Antiques and Oddities Dealer"
         }
     },
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Armorer [Dealer]"
+            "name": "Armorer"
         }
     },
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Black Clinic Supplier [Dealer]"
+            "name": "Black Clinic Supplier"
         }
     },
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Chop Shop Owner [Dealer]"
+            "name": "Chop Shop Owner"
         }
     },
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Supply Sergeant [Dealer]"
+            "name": "Supply Sergeant"
         }
     },
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Talislegger [Dealer]"
+            "name": "Talislegger"
         }
     },
     {
         "path": "contacts.dealers",
         "props": {
-            "name": "Talismonger [Dealer]"
+            "name": "Talismonger"
         }
     },
     {
         "path": "contacts.fixers",
         "props": {
-            "name": "Fixer [Fixer]"
+            "name": "Fixer"
         }
     },
     {
         "path": "contacts.fixers",
         "props": {
-            "name": "M. Johnson [Fixer]"
+            "name": "M. Johnson"
         }
     },
     {
         "path": "contacts.fixers",
         "props": {
-            "name": "Street Dealer [Fixer]"
+            "name": "Street Dealer"
         }
     },
     {
@@ -368,67 +368,67 @@
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Bodyguard [Specialist]"
+            "name": "Bodyguard"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Chemist [Specialist]"
+            "name": "Chemist"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Demolitions Expert [Specialist]"
+            "name": "Demolitions Expert"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Forgerer [Specialist]"
+            "name": "Forgerer"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Getaway Driver [Specialist]"
+            "name": "Getaway Driver"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Hacker [Specialist]"
+            "name": "Hacker"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Mechanic [Specialist]"
+            "name": "Mechanic"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Paramedic [Specialist]"
+            "name": "Paramedic"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Paramedic Shaman [Specialist]"
+            "name": "Paramedic Shaman"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Shark Lawyer [Specialist]"
+            "name": "Shark Lawyer"
         }
     },
     {
         "path": "contacts.specialists",
         "props": {
-            "name": "Street Doc [Specialist]"
+            "name": "Street Doc"
         }
     },
     {
@@ -7734,8 +7734,8 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.bows",
         "props": {
-            "name": "Bow - Rating 2",
-            "damage": "3P",
+            "name": "Bow - 2",
+            "damage": "3p",
             "ap": "-",
             "strMin": "2",
             "availability": "2",
@@ -7745,9 +7745,9 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.bows",
         "props": {
-            "name": "Bow - Rating 4",
+            "name": "Bow - 4",
             "damage": "4P",
-            "ap": "-1",
+            "ap": "-",
             "strMin": "4",
             "availability": "4",
             "cost": "200"
@@ -7756,9 +7756,9 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.bows",
         "props": {
-            "name": "Bow - Rating 6",
+            "name": "Bow - 6",
             "damage": "5P",
-            "ap": "-2",
+            "ap": "-1",
             "strMin": "6",
             "availability": "6",
             "cost": "500"
@@ -7767,9 +7767,9 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.bows",
         "props": {
-            "name": "Bow - Rating 8",
+            "name": "Bow - 8",
             "damage": "6P",
-            "ap": "-3",
+            "ap": "-1",
             "strMin": "8",
             "availability": "8",
             "cost": "1000"
@@ -7778,7 +7778,7 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.crossbows",
         "props": {
-            "name": "Pistol Crossbow",
+            "name": "Crossbow - Pistol",
             "damage": "2P",
             "ap": "-",
             "strMin": "2 (3)",
@@ -7789,7 +7789,7 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.crossbows",
         "props": {
-            "name": "Light Crossbow",
+            "name": "Crossbow - Light",
             "damage": "3P",
             "ap": "-",
             "strMin": "2 (4)",
@@ -7800,9 +7800,9 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.crossbows",
         "props": {
-            "name": "Medium Crossbow",
+            "name": "Crossbow - Medium",
             "damage": "4P",
-            "ap": "-1",
+            "ap": "-",
             "strMin": "3 (5)",
             "availability": "4R",
             "cost": "500"
@@ -7811,9 +7811,9 @@
     {
         "path": "gear.weapons.projectile-and-throwing-weapons.crossbows",
         "props": {
-            "name": "Heavy Crossbow",
+            "name": "Crossbow - Heavy",
             "damage": "5P",
-            "ap": "-2",
+            "ap": "-1",
             "strMin": "4 (6)",
             "availability": "8R",
             "cost": "1000"
