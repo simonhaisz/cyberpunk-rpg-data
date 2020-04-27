@@ -1,5 +1,2 @@
 Name	Damage	AP	STR Min	Availability	Cost
-Bow - Rating 2	3P	-	2	2	100
-Bow - Rating 4	4P	-1	4	4	200
-Bow - Rating 6	5P	-2	6	6	500
-Bow - Rating 8	6P	-3	8	8	1000
+Bow (2, 4, 6, 8)	3p, 4P, 5P, 6P	-, -, -1, -1	2, 4, 6, 8	2, 4, 6, 8	100, 200, 500, 1000

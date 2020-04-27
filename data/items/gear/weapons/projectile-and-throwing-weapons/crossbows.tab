@@ -1,5 +1,2 @@
 Name	Damage	AP	STR Min	Availability	Cost
-Pistol Crossbow	2P	-	2 (3)	4R	200
-Light Crossbow	3P	-	2 (4)	2	200
-Medium Crossbow	4P	-1	3 (5)	4R	500
-Heavy Crossbow	5P	-2	4 (6)	8R	1000
+Crossbow (Pistol, Light, Medium, Heavy)	2P, 3P, 4P, 5P	-, -, -, -1	2 (3), 2 (4), 3 (5), 4 (6)	4R, 2, 4R, 8R	200, 200, 500, 1000
