@@ -1,4 +1,4 @@
-import { Data } from "./data";
+import { Data } from "../data";
 import { readdirSync, lstatSync } from "fs-extra";
 import { join } from "path";
 import { readFile } from "./read-file";

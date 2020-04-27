@@ -1,9 +1,9 @@
 import { program } from "commander";
 import { readdirSync, existsSync, lstatSync } from "fs-extra";
 import { join, resolve } from "path";
-import { loadDirectory } from "./load-data";
-import { processData } from "./process-data";
-import { writeFile } from "./write-file";
+import { loadDirectory } from "./file/load-data";
+import { processData } from "./file/process-data";
+import { writeFile } from "./file/write-file";
 
 program
     .requiredOption("-d, --root-dir <dir>", "Root directory for data files")

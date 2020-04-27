@@ -2,7 +2,7 @@ import { createReadStream } from "fs-extra";
 import { basename, extname } from "path";
 import { createInterface } from "readline";
 import { camelCase } from "change-case";
-import { Data } from "./data";
+import { Data } from "../data";
 
 type LineReader = (line: string) => string[];
 

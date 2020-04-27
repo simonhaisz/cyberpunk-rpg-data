@@ -1,4 +1,4 @@
-import { Data } from "./data";
+import { Data } from "../data";
 
 export function processData(allData: Data[]): Data[] {
 	const processedData: Data[] = [];
