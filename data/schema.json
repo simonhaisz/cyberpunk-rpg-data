@@ -62,14 +62,17 @@
 					"key": true
 				},
 				{
-					"name": "path",
-					"type": "string",
+					"name": "key",
+					"type": "int",
 					"key": true
 				},
 				{
+					"name": "path",
+					"type": "string"
+				},
+				{
 					"name": "name",
-					"type": "string",
-					"key": true
+					"type": "string"
 				},
 				{
 					"name": "data",
