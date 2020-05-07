@@ -7,7 +7,7 @@ Exhalation Spray	0.1	-	5000
 Internal Release	-	-	1000
 Spit	0.1	-	3000
 Weapon Reservoir	0.1	-	2000
-Cosmetic Modification	-	4-16	1000-50000
+Cosmetic Modification (Store, Name, Luxury)	-	4, 8, 16	1000, 1000, 50000
 Digestive Expansion	0.5	4	20000
 Echolocation	0.1	8	15000
 Elastic Joints	0.3	10	15000
