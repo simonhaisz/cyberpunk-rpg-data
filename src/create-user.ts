@@ -5,7 +5,7 @@ import { createClient } from "./db/db";
 
 program
 	.requiredOption("-u, --user <user>", "User name")
-	.requiredOption("-p, --password <password>", "User passowrd")
+	.requiredOption("-p, --password <password>", "User password")
 	.option("-a, --admin", "User is administration", false)
 	.option("-gm, --game-master", "User is game master", false)
 	.parse(process.argv);
