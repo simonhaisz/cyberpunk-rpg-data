@@ -34,7 +34,7 @@ export async function schemaExists(client: Client, schema: Schema) {
 
 export async function dropSchema(client: Client, schema: Schema) {
 	const q = `
-DROP SCHEMA ${schema.name};
+DROP SCHEMA IF EXISTS ${schema.name} CASCADE;
 	`.trim();
 	await client.query(q);
 }
@@ -89,7 +89,7 @@ SELECT table_schema, table_name FROM information_schema.tables WHERE table_schem
 
 export async function dropTable(client: Client, schema: Schema, table: Table) {
 	const q = `
-DROP TABLE ${schema.name}.${table.name};
+DROP TABLE IF EXISTS ${schema.name}.${table.name} CASCADE;
 	`.trim();
 	await client.query(q);
 }
