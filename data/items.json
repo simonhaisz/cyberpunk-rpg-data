@@ -542,10 +542,28 @@
     {
         "path": "gear.augmentations.bioware.basic-bioware",
         "props": {
-            "name": "Cosmetic Modification",
+            "name": "Cosmetic Modification - Store",
             "essence": "-",
-            "availability": "4-16",
-            "cost": "1000-50000"
+            "availability": "4",
+            "cost": "1000"
+        }
+    },
+    {
+        "path": "gear.augmentations.bioware.basic-bioware",
+        "props": {
+            "name": "Cosmetic Modification - Name",
+            "essence": "-",
+            "availability": "8",
+            "cost": "1000"
+        }
+    },
+    {
+        "path": "gear.augmentations.bioware.basic-bioware",
+        "props": {
+            "name": "Cosmetic Modification - Luxury",
+            "essence": "-",
+            "availability": "16",
+            "cost": "50000"
         }
     },
     {
